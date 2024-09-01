@@ -2,8 +2,8 @@
     "m_SelectedDeviceId": "R5CWB1AYKAF",
     "m_SelectedPackage": {
         "deviceId": "R5CWB1AYKAF",
-        "name": "com.UnityTechnologies.com.unity.template.urpblank",
-        "processId": 28407,
+        "name": "com.profile.ARTest",
+        "processId": 13853,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -54,6 +54,18 @@
             "deviceId": "R5CWB1AYKAF",
             "name": "com.UnityTechnologies.com.unity.template.urpblank",
             "processId": 28407,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CWB1AYKAF",
+            "name": "com.UnityTechnologies.com.unity.template.urpblank",
+            "processId": 28002,
+            "exited": false
+        },
+        {
+            "deviceId": "R5CWB1AYKAF",
+            "name": "com.profile.ARTest",
+            "processId": 13853,
             "exited": false
         }
     ],
